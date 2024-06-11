@@ -10,3 +10,6 @@ function multiple (a, b) {
     return a * b;
 }
 
+function printPow (a, b) {
+    return a ** b;
+}
