@@ -13,3 +13,7 @@ function multiple (a, b) {
 function printPow (a, b) {
     return a ** b;
 }
+
+function divide (a, b) {
+    return a / b;
+}
