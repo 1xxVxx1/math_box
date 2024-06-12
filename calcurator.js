@@ -17,3 +17,7 @@ function printPow (a, b) {
 function divide_new (a, b) {
     return a / b;
 }
+
+function say_hello () {
+    console.log("hello");
+}
