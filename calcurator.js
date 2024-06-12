@@ -17,3 +17,7 @@ function printPow (a, b) {
 function divide_frree (a, b) {
     return a / b;
 }
+
+function floorFunc (a) {
+    return Math.floor(a);
+}
