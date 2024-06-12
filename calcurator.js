@@ -14,6 +14,6 @@ function printPow (a, b) {
     return a ** b;
 }
 
-function divide (a, b) {
+function divide_frree (a, b) {
     return a / b;
 }
